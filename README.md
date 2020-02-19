@@ -7,4 +7,4 @@ Este repositorio contiene los códigos de las actividades desarrolladas en el cu
 
 ## Clases
 
--[2020-02-13](aida.mina@correounivalle.edu.co)
+- [2020-02-13](aida.mina@correounivalle.edu.co)
